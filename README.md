@@ -86,10 +86,7 @@ It will be used to identify important variables that are strong predictors of ch
 In some cases, both of the above-stated goals can be achieved by a single machine learning model.
 
  
-
- 
-
-Finally, recommend strategies to manage customer churn based on  observations.
+Finally, recommended strategies to manage customer churn based on  observations.
 
  
 
